@@ -1,0 +1,25 @@
+2013-08-26 22:08:52 | 127.0.0.1 | /qianshuiwan/admin/index.php |您没有权限操作
+2013-08-26 22:09:07 | 127.0.0.1 | /qianshuiwan/admin/index.php/article/add.html | MySQL Query Error<br>
+					<b>SQL</b>: SELECT id,pid,name FROM qsw_category <br>
+					<b>错误详情</b>: Table 'qianshuiwan.qsw_category' doesn't exist<br>
+					<b>错误代码</b>:1146<br>
+2013-08-26 22:09:25 | 127.0.0.1 | /qianshuiwan/admin/index.php/article/add.html | MySQL Query Error<br>
+					<b>SQL</b>: SELECT id,pid,name FROM qsw_category <br>
+					<b>错误详情</b>: Table 'qianshuiwan.qsw_category' doesn't exist<br>
+					<b>错误代码</b>:1146<br>
+2013-08-26 22:09:27 | 127.0.0.1 | /qianshuiwan/admin/index.php/article/index.html | MySQL Query Error<br>
+					<b>SQL</b>: SELECT count(*) FROM qsw_article <br>
+					<b>错误详情</b>: Table 'qianshuiwan.qsw_article' doesn't exist<br>
+					<b>错误代码</b>:1146<br>
+2013-08-26 22:09:28 | 127.0.0.1 | /qianshuiwan/admin/index.php/category/index.html | MySQL Query Error<br>
+					<b>SQL</b>: SELECT id,pid,name FROM qsw_category <br>
+					<b>错误详情</b>: Table 'qianshuiwan.qsw_category' doesn't exist<br>
+					<b>错误代码</b>:1146<br>
+2013-08-26 22:09:29 | 127.0.0.1 | /qianshuiwan/admin/index.php/case/index.html | MySQL Query Error<br>
+					<b>SQL</b>: SELECT count(*) FROM qsw_case <br>
+					<b>错误详情</b>: Table 'qianshuiwan.qsw_case' doesn't exist<br>
+					<b>错误代码</b>:1146<br>
+2013-08-26 22:10:04 | 127.0.0.1 | /qianshuiwan/admin/index.php/article/add.html | MySQL Query Error<br>
+					<b>SQL</b>: SELECT id,pid,name FROM qsw_category <br>
+					<b>错误详情</b>: Table 'qianshuiwan.qsw_category' doesn't exist<br>
+					<b>错误代码</b>:1146<br>

@@ -1,0 +1,72 @@
+2013-08-27 20:07:01 | 127.0.0.1 | /qianshuiwan/admin/index.php/article/add.html | MySQL Query Error<br>
+					<b>SQL</b>: SELECT id,pid,name FROM qsw_category <br>
+					<b>错误详情</b>: Table 'qianshuiwan.qsw_category' doesn't exist<br>
+					<b>错误代码</b>:1146<br>
+2013-08-27 20:25:16 | 127.0.0.1 | /qianshuiwan/admin/index.php/article/add.html |article模块不存在
+2013-08-27 20:25:17 | 127.0.0.1 | /qianshuiwan/admin/index.php/article/add.html |article模块不存在
+2013-08-27 20:26:00 | 127.0.0.1 | /qianshuiwan/admin/index.php/article/add.html |article模块不存在
+2013-08-27 20:30:26 | 127.0.0.1 | /qianshuiwan/admin/index.php/article/add.html |article模块不存在
+2013-08-27 20:31:53 | 127.0.0.1 | /qianshuiwan/admin/index.php/article/add.html |article模块不存在
+2013-08-27 20:34:25 | 127.0.0.1 | /qianshuiwan/admin/index.php/news/add | MySQL Query Error<br>
+					<b>SQL</b>: INSERT INTO qsw_news  (`title`,`cat_id`,`content`,`dateline`) VALUES ('34343434','1','44444444444444','1377606864') <br>
+					<b>错误详情</b>: Unknown column 'cat_id' in 'field list'<br>
+					<b>错误代码</b>:1054<br>
+2013-08-27 20:43:08 | 127.0.0.1 | /qianshuiwan/admin/index.php/article/add.html |article模块不存在
+2013-08-27 20:44:25 | 127.0.0.1 | /qianshuiwan/admin/index.php/article/add.html |article模块不存在
+2013-08-27 20:47:02 | 127.0.0.1 | /qianshuiwan/admin/index.php/article/add.html |article模块不存在
+2013-08-27 20:47:03 | 127.0.0.1 | /qianshuiwan/admin/index.php/article/add.html |article模块不存在
+2013-08-27 20:49:12 | 127.0.0.1 | /qianshuiwan/admin/index.php/article/add.html |article模块不存在
+2013-08-27 20:49:14 | 127.0.0.1 | /qianshuiwan/admin/index.php/article/add.html |article模块不存在
+2013-08-27 20:51:30 | 127.0.0.1 | /qianshuiwan/admin/index.php/article/add.html |article模块不存在
+2013-08-27 20:51:31 | 127.0.0.1 | /qianshuiwan/admin/index.php/article/add.html |article模块不存在
+2013-08-27 20:51:32 | 127.0.0.1 | /qianshuiwan/admin/index.php/article/add.html |article模块不存在
+2013-08-27 20:51:35 | 127.0.0.1 | /qianshuiwan/admin/index.php/article/add.html |article模块不存在
+2013-08-27 20:51:37 | 127.0.0.1 | /qianshuiwan/admin/index.php/article/add.html |article模块不存在
+2013-08-27 20:57:23 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 20:57:42 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 20:57:42 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 20:57:44 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 20:58:25 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 20:58:39 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:09:15 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:09:22 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:09:26 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:09:34 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:09:42 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:09:45 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:09:51 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:10:07 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:10:12 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:10:17 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:10:23 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:10:30 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:12:21 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:12:28 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:12:36 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:12:42 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:13:03 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:13:10 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:13:30 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:13:34 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:13:40 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:23:58 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:32:04 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:32:06 | 127.0.0.1 | /qianshuiwan/admin/index.php/falv/index.html |falvMod类未定义
+2013-08-27 21:32:23 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:32:33 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:35:13 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:35:14 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:35:52 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:36:47 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:37:16 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 21:41:43 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 22:21:07 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 22:21:10 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 22:21:13 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 22:21:15 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 22:21:17 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 22:21:19 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 22:21:21 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 22:22:04 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 22:22:10 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在
+2013-08-27 22:22:11 | 127.0.0.1 | /qianshuiwan/admin/index.php/public/js/ke4/lang/zh_CN.js |public模块不存在

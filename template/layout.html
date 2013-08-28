@@ -1,0 +1,100 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>{% block title %}浅水湾{% endblock %}</title>
+	<link rel="stylesheet" href="{{ __PUBLIC__ }}/css/style.css" />
+</head>
+<body>
+<!-- 头部 begin -->
+<div class="header">
+	<div class="headInner">
+		<div class="welcomeTxt">浅水湾花园欢迎您！</div>
+		<ul class="topMenu clearfix">
+			<li><a href="#">·收藏本站</a></li>
+			<li><a href="#">·设为首页</a></li>
+			<li><a href="#">·主任信箱</a></li>
+		</ul>
+		<!-- nav begin -->
+		{% block menu %}
+		<ul class="navMenu clearfix">
+			<li><a href="{{ __APP__ }}">首   页</a>|</li>
+			<li><a href="{{ __APP__ }}/about">小区简介</a>|</li>
+			<li><a href="{{ __APP__ }}/news/1">小区新闻</a>|</li>
+			<li><a href="{{ __APP__ }}/news/2">温馨提示</a>|</li>
+			<li><a href="{{ __APP__ }}/falv">法律法规</a>|</li>
+			<li><a href="{{ __APP__ }}/news/3">业主通讯</a></li>
+		</ul>
+		{% endblock %}
+		<!-- nav end -->
+	</div>     
+</div>
+<!-- 头部 end -->
+<div class="wrapper">
+	<!-- leftRightShadow -->
+	<span class="leftShadow"></span>
+	<span class="rightShadow"></span>
+	<!-- leftRightShadow end -->
+	<!-- banner -->
+	{% block banner %}
+	<div class="banner">
+		<img src="{{ __PUBLIC__ }}/images/banner1.jpg" alt="浅水湾花园" />
+		<div class="bannerTxt">搭建设网上家园&nbsp;&nbsp;共建和谐社区</div>
+	</div>
+	{% endblock %}
+	<!-- banner end -->
+	<div class="container clearfix">
+		<div class="sidebar">
+			<div class="columnNav">
+				{% block left_menu %}
+				<ul class="columnList">
+					<li><a href="#">民意表决</a></li>
+					<li><a href="#">维修基金</a></li>
+					<li><a href="#">业主报修</a></li>
+					<li><a href="{{ __APP__ }}/about/yeweihui">业委会工作</a></li>
+					<li><a href="#">投诉与建议</a></li>
+					<li><a href="/bbs" target="_blank">小区论坛</a></li>
+					<li class="last"><a href="#">公告栏</a></li>
+				</ul>
+				{% endblock %}
+			</div>
+			<div class="warmTip">
+				{% block left_list %}
+					<div class="warmTipInner">
+						<h3>温馨提示</h3>
+						<ul class="TipList">
+							{% for v in wenxin %}
+							<li><a href="#">·{{ v.title }}</a></li>
+							{% endfor %}
+						</ul>
+					</div>
+				{% endblock %}
+			</div>
+		</div>
+
+		<div class="content">
+			<!-- path
+			<div class="path">您当前的位置：</div>
+			path end -->
+			{% block breadcrumb %}
+			{% endblock %}
+			{% block content %}
+			{% endblock %}
+			{% block flink %}
+			
+			{% endblock %}
+		</div>  
+	</div>
+</div>
+<!-- footer begin -->
+{% block foot %}
+<div class="footer">
+	<div class="foot">
+		<p>Copyrights 2013&nbsp;&nbsp;版权所有:上海市浅水湾花园</p>
+		<p>中心地址:xxxxxxxxxx&nbsp;&nbsp;&nbsp;&nbsp;电话:xxxxxxx&nbsp;&nbsp;&nbsp;&nbsp;传真:xxxxxxxx</p>
+	</div>
+</div>
+{% endblock %}
+<!-- footer end -->
+</body>
+</html>

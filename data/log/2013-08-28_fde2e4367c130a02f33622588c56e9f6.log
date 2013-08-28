@@ -1,0 +1,82 @@
+2013-08-28 20:30:01 | 127.0.0.1 | /qianshuiwan/index.php |Unable to find template "index_index.html" (looked into: ./template).
+2013-08-28 20:30:34 | 127.0.0.1 | /qianshuiwan/index.php |Unable to find template "index_index.html" (looked into: ./template).
+2013-08-28 20:30:35 | 127.0.0.1 | /qianshuiwan/index.php |Unable to find template "index_index.html" (looked into: ./template).
+2013-08-28 20:31:01 | 127.0.0.1 | /qianshuiwan/index.php/__PUBLIC__/css/style.css |__PUBLIC__模块不存在
+2013-08-28 20:31:01 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:31:08 | 127.0.0.1 | /qianshuiwan/index.php/__PUBLIC__/css/style.css |__PUBLIC__模块不存在
+2013-08-28 20:31:29 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:31:30 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:32:29 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:32:31 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:33:30 | 127.0.0.1 | /qianshuiwan/index.php |A template that extends another one cannot have a body in "index/index.html" at line 2.
+2013-08-28 20:33:43 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:33:48 | 127.0.0.1 | /qianshuiwan/index.php |A template that extends another one cannot have a body in "index/index.html" at line 2.
+2013-08-28 20:34:40 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:34:52 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:35:47 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:35:48 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:36:15 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:36:17 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:36:17 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:36:18 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:36:18 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:36:19 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:36:19 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:36:20 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:36:20 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:36:21 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:36:21 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:36:22 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:36:22 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:36:23 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:36:23 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:36:24 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:45:40 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:45:42 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:46:16 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:46:18 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:50:21 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:50:40 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 20:50:41 | 127.0.0.1 | /qianshuiwan/index.php/images/banner1.jpg |images模块不存在
+2013-08-28 21:00:20 | 127.0.0.1 | /qianshuiwan/index.php |fields方法在cpModel.class.php类中没有定义
+2013-08-28 21:03:54 | 127.0.0.1 | /qianshuiwan/index.php |Unexpected character "$" in "index/index.html" at line 7
+2013-08-28 21:19:14 | 127.0.0.1 | /qianshuiwan/index.php/news/1 |Unable to find template "news/index.html" (looked into: ./template).
+2013-08-28 21:22:25 | 127.0.0.1 | /qianshuiwan/index.php/news/1 |Unexpected tag name "v" (expecting closing tag for the "for" tag defined near line 12) in "news/index.html" at line 13
+2013-08-28 21:23:16 | 127.0.0.1 | /qianshuiwan/index.php/news/1 |Unexpected tag name "v" (expecting closing tag for the "for" tag defined near line 12) in "news/index.html" at line 13
+2013-08-28 21:24:08 | 127.0.0.1 | /qianshuiwan/index.php/news/1 |Unexpected tag name "new" (expecting closing tag for the "for" tag defined near line 12) in "news/index.html" at line 13
+2013-08-28 21:32:44 | 127.0.0.1 | /qianshuiwan/index.php/news/1 |Unexpected token "operator" of value "=" ("end of print statement" expected) in "news/index.html" at line 14
+2013-08-28 21:33:26 | 127.0.0.1 | /qianshuiwan/index.php/news/1 |Unexpected token "operator" of value "=" ("end of print statement" expected) in "news/index.html" at line 14
+2013-08-28 21:33:32 | 127.0.0.1 | /qianshuiwan/index.php/news/1 |Unexpected token "operator" of value "=" ("end of print statement" expected) in "news/index.html" at line 14
+2013-08-28 21:33:49 | 127.0.0.1 | /qianshuiwan/index.php/news/1 |Unexpected token "operator" of value "=" ("end of print statement" expected) in "news/index.html" at line 14
+2013-08-28 21:34:53 | 127.0.0.1 | /qianshuiwan/index.php/news/1 |Unexpected token "operator" of value "=" ("end of print statement" expected) in "news/index.html" at line 14
+2013-08-28 21:35:07 | 127.0.0.1 | /qianshuiwan/index.php/news/1 |Unexpected token "operator" of value "=" ("end of print statement" expected) in "news/index.html" at line 14
+2013-08-28 21:37:26 | 127.0.0.1 | /qianshuiwan/index.php/falv |falv模块不存在
+2013-08-28 22:10:03 | 127.0.0.1 | /qianshuiwan/index.php/about |Unable to find template "about/index.php" (looked into: ./template).
+2013-08-28 22:10:22 | 127.0.0.1 | /qianshuiwan/index.php/about |Unexpected tag name "info" (expecting closing tag for the "block" tag defined near line 3) in "about/index.php" at line 11
+2013-08-28 22:19:25 | 127.0.0.1 | /qianshuiwan/index.php/about/yeweuhui |yeweuhui操作方法在about模块中不存在
+2013-08-28 22:19:57 | 127.0.0.1 | /qianshuiwan/index.php/about/pic/2.jpg |pic/2.jpg操作方法在about模块中不存在
+2013-08-28 22:21:25 | 127.0.0.1 | /qianshuiwan/index.php/about/yeweihui |Unexpected token "end of print statement" of value "" ("name" expected) in "about/yeweihui.php" at line 12
+2013-08-28 22:22:47 | 127.0.0.1 | /qianshuiwan/index.php/about/pic/2.jpg |pic/2.jpg操作方法在about模块中不存在
+2013-08-28 22:22:58 | 127.0.0.1 | /qianshuiwan/index.php/about/pic/2.jpg |pic/2.jpg操作方法在about模块中不存在
+2013-08-28 22:23:14 | 127.0.0.1 | /qianshuiwan/index.php/about/pic/2.jpg |pic/2.jpg操作方法在about模块中不存在
+2013-08-28 22:24:53 | 127.0.0.1 | /qianshuiwan/index.php/about/pic/2.jpg |pic/2.jpg操作方法在about模块中不存在
+2013-08-28 22:24:56 | 127.0.0.1 | /qianshuiwan/index.php/about/pic/2.jpg |pic/2.jpg操作方法在about模块中不存在
+2013-08-28 22:27:18 | 127.0.0.1 | /qianshuiwan/index.php/about/pic/2.jpg |pic/2.jpg操作方法在about模块中不存在
+2013-08-28 22:27:21 | 127.0.0.1 | /qianshuiwan/index.php/about/pic/2.jpg |pic/2.jpg操作方法在about模块中不存在
+2013-08-28 22:28:18 | 127.0.0.1 | /qianshuiwan/index.php/about/pic/2.jpg |pic/2.jpg操作方法在about模块中不存在
+2013-08-28 22:28:21 | 127.0.0.1 | /qianshuiwan/index.php/about/pic/2.jpg |pic/2.jpg操作方法在about模块中不存在
+2013-08-28 22:29:12 | 127.0.0.1 | /qianshuiwan/index.php/about/pic/2.jpg |pic/2.jpg操作方法在about模块中不存在
+2013-08-28 22:29:15 | 127.0.0.1 | /qianshuiwan/index.php/about/pic/2.jpg |pic/2.jpg操作方法在about模块中不存在
+2013-08-28 22:30:01 | 127.0.0.1 | /qianshuiwan/index.php/about/pic/2.jpg |pic/2.jpg操作方法在about模块中不存在
+2013-08-28 22:30:03 | 127.0.0.1 | /qianshuiwan/index.php/about/pic/2.jpg |pic/2.jpg操作方法在about模块中不存在
+2013-08-28 22:31:04 | 127.0.0.1 | /qianshuiwan/index.php/about/pic/2.jpg |pic/2.jpg操作方法在about模块中不存在
+2013-08-28 22:32:07 | 127.0.0.1 | /qianshuiwan/index.php/about/pic/2.jpg |pic/2.jpg操作方法在about模块中不存在
+2013-08-28 22:32:50 | 127.0.0.1 | /qianshuiwan/index.php/about/pic/2.jpg |pic/2.jpg操作方法在about模块中不存在
+2013-08-28 22:32:53 | 127.0.0.1 | /qianshuiwan/index.php/about/pic/2.jpg |pic/2.jpg操作方法在about模块中不存在
+2013-08-28 22:33:02 | 127.0.0.1 | /qianshuiwan/index.php/about/pic/2.jpg |pic/2.jpg操作方法在about模块中不存在
+2013-08-28 22:33:04 | 127.0.0.1 | /qianshuiwan/index.php/about/pic/2.jpg |pic/2.jpg操作方法在about模块中不存在
+2013-08-28 22:33:16 | 127.0.0.1 | /qianshuiwan/index.php/about/pic/2.jpg |pic/2.jpg操作方法在about模块中不存在
+2013-08-28 22:33:19 | 127.0.0.1 | /qianshuiwan/index.php/about/pic/2.jpg |pic/2.jpg操作方法在about模块中不存在
+2013-08-28 22:33:52 | 127.0.0.1 | /qianshuiwan/index.php/about/pic/2.jpg |pic/2.jpg操作方法在about模块中不存在
+2013-08-28 22:33:59 | 127.0.0.1 | /qianshuiwan/index.php/about/pic/2.jpg |pic/2.jpg操作方法在about模块中不存在
+2013-08-28 22:34:57 | 127.0.0.1 | /qianshuiwan/index.php/about/pic/2.jpg |pic/2.jpg操作方法在about模块中不存在
